@@ -19,7 +19,6 @@ public class Test1 {
 }
 
 class MyRunnable implements Runnable {
-
   public void run() {
     System.out.println("线程运行中！");
   }
